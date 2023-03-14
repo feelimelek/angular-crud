@@ -1,5 +1,8 @@
 # AngularCrud
 
+Project from the Loiane Groner's CRUD Angular + Spring course. TO FINISH.
+Link to the course: [CRUD Angular + Spring](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBpwaVgAPxTxhdX_TfSVlTcY)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
 
 ## Development server
